@@ -1,6 +1,6 @@
 # Trader Performance vs Market Sentiment
 
-[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jaswanth-K1210/sentiment-trader-analysis/blob/main/sentiment_trader_analysis.ipynb](https://colab.research.google.com/drive/1GCR3BlN4otnxEmkPU3pbrrdoxv4EyxXp?usp=sharing))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jaswanth-K1210/sentiment-trader-analysis/blob/main/sentiment_trader_analysis.ipynb)
 
 Data science assignment for the Primetrade.ai internship. The goal was to explore how trader performance relates to Bitcoin market sentiment, find patterns that aren't obvious on the surface, and turn them into trading-strategy insights.
 
